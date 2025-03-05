@@ -1,0 +1,17 @@
+#head{
+    background-color: brown;
+    
+    margin: 40px;
+    padding: 20px;
+    height: 400px;
+    width: 300px;
+    text-align: center;
+    border-radius: 20px;
+}
+
+input {
+    height: 30px;
+}
+h2{
+    font-size: 30px;
+}
