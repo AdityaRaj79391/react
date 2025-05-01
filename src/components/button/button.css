@@ -1,0 +1,27 @@
+#Button {
+    color: white;
+     /* border:linear-gradient(to left, rgb(66, 66, 207),rgb(26, 26, 33)); */
+    /* padding: 7px; */
+    border-radius: 7px;
+    background-color: #fff;
+    /* border-image: linear-gradient(to left, rgb(66, 66, 207),rgb(26, 26, 33)); */
+    background-image: linear-gradient(to left, rgb(66, 66, 207),rgb(26, 26, 33));
+    height: 38px;
+    margin-top: 10px; 
+    width: 200px;
+    text-align: center;
+    padding-bottom: 15px; 
+    /* margin-bottom: 20px; */
+
+   
+
+}
+p{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-size: medium;
+    padding: 0;
+    /* background-color: blue; */
+   
+}
+

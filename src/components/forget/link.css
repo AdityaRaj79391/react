@@ -1,0 +1,12 @@
+/* a > span{
+    margin-top: 5px ;
+    padding-top: 20px;
+    
+} */
+
+a > div{
+    padding-top: 10px;
+    padding-left: 0px;
+    margin-left: 0px;
+    padding-bottom: 10px;
+}

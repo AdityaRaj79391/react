@@ -1,0 +1,8 @@
+p {
+   
+    padding-top: 10px;
+}
+
+p > a{
+    padding-left: 15px;
+}

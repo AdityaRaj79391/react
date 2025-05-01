@@ -1,1 +1,0 @@
-export const Input = (props) => <input type="text" placeholder={`enter your ${props.type}`} />;
